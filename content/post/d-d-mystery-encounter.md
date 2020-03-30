@@ -1,5 +1,5 @@
 +++
-date = 2020-03-30T22:30:00Z
+date = 2020-03-30T22:33:00Z
 tags = ["d&d"]
 title = "D&D Mystery Encounter"
 
