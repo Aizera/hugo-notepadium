@@ -10,7 +10,3 @@ fields:
 - name: draft
   type: boolean
   label: Draft
-- name: tags
-  type: tag_list
-  default: []
-  label: Tags
