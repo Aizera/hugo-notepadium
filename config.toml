@@ -1,8 +1,8 @@
-baseURL = ""
+baseURL = "aizera.netlify.com"
 copyright = "©2020 Aizera."
 defaultContentLanguage = "en"
-enableRobotsTXT = true
-hasCJKLanguage = true
+enableRobotsTXT = false
+hasCJKLanguage = false
 languageCode = "en"
 theme = "hugo-notepadium"
 title = "Aizera"
