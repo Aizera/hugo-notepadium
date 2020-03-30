@@ -2,7 +2,6 @@
 author = "Hugo Authors"
 date = 2019-03-09T00:00:00Z
 description = "Lorem Ipsum Dolor Si Amet"
-draft = true
 tags = ["markdown", "text"]
 title = "Placeholder Text"
 
