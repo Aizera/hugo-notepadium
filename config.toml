@@ -1,4 +1,4 @@
-baseURL = "https://aizera.netlify.com"
+baseURL = ""
 copyright = "©2020 Aizera."
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -25,7 +25,7 @@ enable = false
 enable = false
 use = "katex"
 [params.nav]
-showCategories = false
+showCategories = true
 showTags = true
 [[params.nav.custom]]
 title = "About"
