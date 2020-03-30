@@ -1,6 +1,5 @@
 +++
 date = ""
-draft = true
 tags = ["d&d"]
 title = "D&D Mystery Encounter"
 
