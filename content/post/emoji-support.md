@@ -2,7 +2,6 @@
 author = "Hugo Authors"
 date = 2019-03-05T00:00:00Z
 description = "Guide to emoji usage in Hugo"
-draft = true
 tags = ["emoji"]
 title = "Emoji Support"
 
