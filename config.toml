@@ -35,7 +35,7 @@ slogan = "Kate's bad at finishing projects"
 css = ["css/fonts.css"]
 
 [params.comments]
-enable = true  # En/Disable comments globally, default: false. You can always enable comments on per page.
+enable = false # En/Disable comments globally, default: false. You can always enable comments on per page.
 
 [params.math]
 enable = false # load math globally, default: false. You can always enable math on per page.
@@ -57,3 +57,7 @@ url = "/about/"
 [[params.nav.custom]]
 title = "Savory Readings"
 url = "https://savory.win/"
+
+[[params.nav.custom]]
+title = "Instagram"
+url = "https://instagram.com/autobotzero"
