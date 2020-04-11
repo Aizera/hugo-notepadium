@@ -4,7 +4,7 @@ tags = ["art"]
 title = "Painting Progress and Conundrums"
 
 +++
-![](/uploads/blue hair wip.png)
+![](/uploads/bluehairedwip.png)
 
 Taking a four month or so break has depleted a lot of my knowledge and muscle memory that now I am forced to slow down and watch the piece like a hawk. Midway through my coloring, I had to delete half of my progress to fix some silly mistakes. I wonder if I am rushing too much into producing a completed piece instead of spending more time on anatomy, and basic shadows. I've been looking at it for too long that even with multiple horizontal flips, I don't notice the mistakes anymore.
 
