@@ -1,7 +1,7 @@
 +++
 date = 2020-04-16T20:40:04Z
 tags = ["resources"]
-title = "Covid Resources Links"
+title = "Resources for Social Distancing"
 
 +++
 [https://culturela.org/programs-and-initiatives/arts-resources-during-covid-19/](https://culturela.org/programs-and-initiatives/arts-resources-during-covid-19/ "https://culturela.org/programs-and-initiatives/arts-resources-during-covid-19/")
