@@ -13,3 +13,5 @@ title = "Resources for Social Distancing"
 [https://www.classcentral.com/report/coursera-free-certificate-covid-19/](https://www.classcentral.com/report/coursera-free-certificate-covid-19/ "https://www.classcentral.com/report/coursera-free-certificate-covid-19/")
 
 [https://online-learning.harvard.edu/](https://online-learning.harvard.edu/ "https://online-learning.harvard.edu/")
+
+[https://ocw.mit.edu/courses/](https://ocw.mit.edu/courses/ "https://ocw.mit.edu/courses/")

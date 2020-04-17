@@ -22,7 +22,6 @@ fields:
   default: []
   label: Tags
 pages:
-- content/post/covid-resources-links.md
 - content/post/d-d-mystery-encounter.md
 - content/post/painting-progress-and-conundrums.md
 - content/post/welcome-to-riot-support-how-can-we-help.md
