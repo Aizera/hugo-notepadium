@@ -1,6 +1,6 @@
 +++
 date = 2020-04-22T05:49:49Z
-tags = []
+tags = ["d&d"]
 title = "D&D Mystery Encounter: Part 2"
 
 +++
