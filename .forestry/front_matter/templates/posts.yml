@@ -22,6 +22,7 @@ fields:
   default: []
   label: Tags
 pages:
+- content/post/bloom-s-taxonomy-exercise.md
 - content/post/d-d-mystery-encounter-part-2.md
 - content/post/d-d-mystery-encounter.md
 - content/post/ike-silkfield-s-lore.md
