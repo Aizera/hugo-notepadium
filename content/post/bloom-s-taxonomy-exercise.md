@@ -1,10 +1,11 @@
 +++
 date = 2020-05-03T21:19:26Z
-draft = true
 tags = ["learning"]
 title = "Bloom's Taxonomy Exercise"
 
 +++
+![](/uploads/20200428_230313.jpg)
+
 As I've been learning how to learn in my Natural Science Education (NSED) course, I wanted to relate this Bloom's Taxonomy exercise to my Korean learning. Bloom's Taxonomy is a framework to categorize educational goals. I've taken these top level categories, and created my own subcategories to identify how I can approach my goal.
 
 * **Remember**
