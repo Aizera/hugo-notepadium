@@ -4,14 +4,16 @@ tags = ["resources"]
 title = "Resources for Social Distancing"
 
 +++
-[https://culturela.org/programs-and-initiatives/arts-resources-during-covid-19/](https://culturela.org/programs-and-initiatives/arts-resources-during-covid-19/ "https://culturela.org/programs-and-initiatives/arts-resources-during-covid-19/")
+<!--more-->
 
-[https://www.nami.org/covid-19-guide](https://www.nami.org/covid-19-guide "https://www.nami.org/covid-19-guide")
+[Art Resources during Covid 19](https://culturela.org/programs-and-initiatives/arts-resources-during-covid-19/)
 
-[https://thejournal.com/Articles/2020/03/13/Free-Resources-Ed-Tech-Companies-Step-Up-During-Coronavirus-Outbreak.aspx?Page=3](https://thejournal.com/Articles/2020/03/13/Free-Resources-Ed-Tech-Companies-Step-Up-During-Coronavirus-Outbreak.aspx?Page=3 "https://thejournal.com/Articles/2020/03/13/Free-Resources-Ed-Tech-Companies-Step-Up-During-Coronavirus-Outbreak.aspx?Page=3")
+[Covid-19 guide (nami.org)](https://www.nami.org/covid-19-guide)
 
-[https://www.classcentral.com/report/coursera-free-certificate-covid-19/](https://www.classcentral.com/report/coursera-free-certificate-covid-19/ "https://www.classcentral.com/report/coursera-free-certificate-covid-19/")
+[Free Resources from online services (thejournal.com)](https://thejournal.com/Articles/2020/03/13/Free-Resources-Ed-Tech-Companies-Step-Up-During-Coronavirus-Outbreak.aspx?Page=3)
 
-[https://online-learning.harvard.edu/](https://online-learning.harvard.edu/ "https://online-learning.harvard.edu/")
+[Coursera Free Certificate Classes (classcentral.com)]()
 
-[https://ocw.mit.edu/courses/](https://ocw.mit.edu/courses/ "https://ocw.mit.edu/courses/")
+[Harvard Online Courses]()
+
+[MIT Online Courses]()
