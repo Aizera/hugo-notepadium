@@ -4,6 +4,8 @@ tags = ["d&d"]
 title = "Ike Silkfield's Lore"
 
 +++
+![](/uploads/Untitled73-1.png)
+
 Ike first met her patron in a dream.
 
 She finds herself suspended in the depths of an ocean; there is not a hint of sunlight nor a sign of life.
