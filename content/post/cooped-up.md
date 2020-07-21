@@ -1,7 +1,14 @@
 +++
-date = 2020-07-13T10:09:32Z
+date = 2020-07-21T07:00:00Z
 draft = true
 tags = ["staying home"]
-title = "Cooped up"
+title = "The struggle to become an academic again."
 
 +++
+When there is such a thin line between workspace and gaming table, it's kind of a pain for me to get into "work mode" and just spend countless hours playing games. I don't really remember the last time I was intrinsically motivated to try hard with schoolwork, but being cooped up at home kind of makes it worse.
+
+I am taking summer courses, so it definitely feels like my summer is not summer. I'm still tied to obligations, and my work comes off quite sloppy and lacking in quality. I know it, professors/TAs probably know it as well.
+
+[BeKyoot's Comic on Quiet Moments](https://bekyoot.com/comic/quiet-mo-ments/)
+
+![](https://bekyoot.com/wp-content/uploads/2020/07/Webcomic-Quiet-Moments-1200x1388.png)
