@@ -16,6 +16,6 @@ Their eyes meet.
 
 Suddenly, she seems to no longer be able to breathe. An abundant mass of water gushes into her nose and mouth; she drowns.
 
-Finally awoken from her dream, she fiercely sits up on her bed. Her entire body is drenched in sweat, and she finds herself unable to draw a proper breath. It feels as if she had perished in a gruesome manner, and miraculously returned back to life. As the days went on, she begins to discover a tinge of energy imbued in the core of her body.
+Finally awoken from her dream, she fiercely sits up on her bed. Her entire body is drenched in sweat; she's unable to draw a proper breath. It is as if she had perished in a gruesome manner, but miraculously returned to life. As the days went on, she begins to discover a tinge of energy imbued in the core of her body.
 
 It is her first taste of power.
