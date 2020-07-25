@@ -54,9 +54,9 @@ showTags = true             # /tags/
 title = "About"
 url = "/about/"
 
-[[params.nav.custom]]
-title = "Savory Readings"
-url = "https://savory.win/"
+#[[params.nav.custom]]
+#title = "Savory Readings"
+#url = "https://savory.win/"
 
 [[params.nav.custom]]
 title = "Instagram"
