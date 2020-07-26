@@ -1,14 +1,12 @@
 +++
-title = "About"
-description = ""
-date = "2020-03-31"
 aliases = []
 author = "Kate"
+date = 2020-03-31T00:00:00Z
+description = ""
+title = "About"
+
 +++
 
+Hello and welcome to my blog! My name is Kate. I'm a full time student and digital art hobbyist who spend most of my time on procrastinating and getting distracted by things. 
 
-Kate is: a writer, an artist, an expert procrastinator
-
-This blog will probably be about: maplestory, d&d, misc life updates
-
-
+I'll be posting my progress on digital painting, reading, gaming and other miscellaneous things.
