@@ -1,5 +1,5 @@
 +++
-date = 2020-07-24T06:15:19Z
+date = 2020-07-29T17:55:00Z
 tags = ["learning", "staying home"]
 title = "Finished my first book of TTMIK!"
 
