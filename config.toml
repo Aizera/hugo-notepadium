@@ -1,4 +1,4 @@
-baseURL = "https://aizera.netlify.com"
+baseURL = "https://aizera.netlify.app"
 title = "Aizera"
 theme = "hugo-notepadium"
 copyright = "©2020 Aizera"
