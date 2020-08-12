@@ -10,7 +10,7 @@ When most people make new year's resolution to get more fit, they tend to fail a
 
 Now that I've stopped taking mandatory 20 minute uphill and downhill walks on campus, I've turned to Nintendo's [Ring Fit Adventure](https://ringfitadventure.nintendo.com/) to keep myself moving at home. I basically practice a very unhealthy sedentary lifestyle, so the first few days got me sore even though I was on an easy difficulty. I started slow, and I play the game for about only 10 minutes a day (in terms of workout time). I've had a positive sentiment, which I share with this video made by yakkocmn. His review more or less includes everything I love about the game and it's a fun video to watch, so I highly recommend that you watch it if you are interested in Ring Fit Adventure and won't mind a few spoilers :)
 
-<figure class="video_container"> <iframe width="680" height "383" src = "https://www.youtube.com/embed/VsGF-Gmm8Cs" frameborder="0" allowfullscreen="true"></iframe> </figure>
+<figure class="video_container"> <iframe width="600" height "338" src = "https://www.youtube.com/embed/VsGF-Gmm8Cs" frameborder="0" allowfullscreen="true"></iframe> </figure>
 
 Currently, I'm a little bit over 50 days in of playing (and over 10+ hours of exercise), and I am not slowing down anytime soon. I'm not aiming to lose weight, nor be a better runner, but I genuinely find the game fun. I still have flabby arms, but I feel good about myself. If I have any physical changes and improvements down the line, it will be a good side effect from the game I play for enjoyment.
 
