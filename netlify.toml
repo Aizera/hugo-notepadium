@@ -34,3 +34,9 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://aizera.page"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://aizera.netlify.com"
+  to = "https://aizera.page"
+  status = 301
+  force = true
