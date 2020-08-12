@@ -28,15 +28,3 @@ HUGO_VERSION = "0.68.3"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
-
-[[redirects]]
-  from = "https://aizera.netlify.app"
-  to = "https://aizera.page"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "https://aizera.netlify.com"
-  to = "https://aizera.page"
-  status = 301
-  force = true
