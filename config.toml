@@ -1,6 +1,6 @@
 baseURL = "https://aizera.page"
 title = "Aizera"
-theme = "hugo-notepadium, "hugo-snap-gallery"
+theme = "hugo-notepadium", "hugo-snap-gallery"
 copyright = "©2020 Aizera"
 
 languageCode = "en"  # for the RSS generation
