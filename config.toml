@@ -1,6 +1,6 @@
 baseURL = "https://aizera.page"
 title = "Aizera"
-theme = [ "hugo-notepadium", "hugo-snap-gallery" ]
+theme = ["hugo-snap-gallery","hugo-notepadium"]
 copyright = "©2020 Aizera"
 
 languageCode = "en"  # for the RSS generation
@@ -14,7 +14,7 @@ enableRobotsTXT = true
 #disqusShortname = "XXX"
 
 # Google Analytics
-#googleAnalytics = "UA-123-45"
+#googleAnalytics = "UA-150911860-1"
 
 [markup.highlight]
 codeFences = true
@@ -26,7 +26,7 @@ unsafe = true  # enable raw HTML in Markdown
 [params]
 style = "dark"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
 dateFormat = "Jan 02, 2006"  # if unset, default is "2006-01-02"
-readingTime = false  # show reading time after article date
+readingTime = true  # show reading time after article date
 logo = ""
 slogan = "Kate's bad at finishing projects"
 #license = "<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt=Creative Commons License style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png /></a><br />This work is licensed under a <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
