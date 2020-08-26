@@ -58,10 +58,10 @@ url = "/about/"
 title = "Art Gallery"
 url = "/art-gallery/"
 
-#[[params.nav.custom]]
-#title = "Savory Readings"
-#url = "https://savory.win/"
-
 [[params.nav.custom]]
 title = "Instagram"
 url = "https://instagram.com/autobotzero"
+
+[[params.nav.custom]]
+title = "Donate"
+url = "https://ko-fi.com/aizera"
