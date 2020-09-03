@@ -122,6 +122,13 @@ title = "Contact"
 		textarea:focus {
 			border-color: #ff7496;
 		}
+  /*style*/
+  
+  body, input, select, textarea {
+		line-height: 2;
+		letter-spacing: 0.2em;
+		
+	}
 	/* Button */
 
 	input[type="submit"],
@@ -144,7 +151,7 @@ title = "Contact"
 		background-color: transparent;
 		border-radius: 4px;
 		border: solid 1px #c8cccf;
-		color: #414f57 !important;
+		color: #8fafc2 !important;
 		cursor: pointer;
 		text-align: center;
 		text-decoration: none;
