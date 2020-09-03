@@ -6,14 +6,6 @@ title = "Contact"
 +++
 <style>
   	/* Form */
-  		form {
-		margin: 0 0 1.5em 0;
-	}
-
-		form > :last-child {
-			margin-bottom: 0;
-		}
-
 		form > .fields {
 			display: -moz-flex;
 			display: -webkit-flex;
@@ -79,7 +71,7 @@ title = "Contact"
 		}
 
 	label {
-		color: #7f8f99;
+		color: #96a8b3;
 		display: block;
 		font-size: 0.9em;
 		margin: 0 0 0.75em 0;
@@ -154,7 +146,7 @@ title = "Contact"
 		background-color: transparent;
 		border-radius: 4px;
 		border: solid 1px #c8cccf;
-		color: #7f8f99 !important;
+		color: #39434a !important;
 		cursor: pointer;
 		text-align: center;
 		text-decoration: none;
