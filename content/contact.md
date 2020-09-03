@@ -124,7 +124,7 @@ title = "Contact"
 		}
   /*style*/
   
-  body, input, select, textarea {
+ input, select, textarea {
     	font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
