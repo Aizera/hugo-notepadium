@@ -124,20 +124,15 @@ title = "Contact"
 	
 	.box{
 		width:300px;
-		height:100px;
-		background-color:rgba(0,0,0,0.0); /* where 0.5 means 50% opacity */
+		height:100px; 
 		background: transparent;
-		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000)"; /* IE8 */
-		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);   	/* IE6 & 7 */
- 	     zoom: 1;
 	}
- 
- /* Button */
 
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
 	button,
+	
 	.button {
 		-moz-appearance: none;
 		-webkit-appearance: none;
