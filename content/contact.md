@@ -125,6 +125,9 @@ title = "Contact"
   /*style*/
   
   body, input, select, textarea {
+    	font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-size: 14pt;
+		font-weight: 300;
 		line-height: 2;
 		letter-spacing: 0.2em;
 		
@@ -221,15 +224,13 @@ title = "Contact"
 		}
 </style>
     
-<form name="Contact Aizera" method="POST" netlify> <p> <label>Name: <input type="text" name="Name:" required></label>  
+<form name="Contact Aizera" method="POST" netlify> <p> <label>Name: <input type="text" name="NAME:" required></label>  
 </p>
 <p>
-<label>IGN: <input type="text" name="IGN:" required></label>  
+<label>EMAIL: <input type="email" name="Email:" required></label>  
 </p>
 <p>
-<label>Discord Tag (Name#0000): <input type="text" name="Discord:" required></label>
-</p>
-<p>	<label>Message (Optional): <textarea name="message"></textarea></label>
+<p>	<label>MESSAGE (OPTIONAL): <textarea name="Message:"></textarea></label>
 </p>
 <p>
 <button type="submit">SUBMIT</button>
