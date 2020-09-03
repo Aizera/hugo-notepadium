@@ -1,8 +1,6 @@
 +++
-aliases = []
-author = "Kate"
-date = 2020-03-31T00:00:00Z
-description = ""
+date = ""
+tags = []
 title = "About"
 
 +++

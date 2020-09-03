@@ -1,6 +1,6 @@
 +++
-date = 2020-08-14T02:55:29Z
-tags = ["art"]
+date = ""
+tags = []
 title = "Art Gallery"
 
 +++
