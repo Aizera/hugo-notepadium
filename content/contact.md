@@ -5,71 +5,67 @@ title = "Contact"
 
 +++
 <style>
-  	/* Form */
+	/* Form */
+	/*  
+	form > .fields {
+		display: -moz-flex;
+		display: -webkit-flex;
+		display: -ms-flex;
+		display: flex;
+		-moz-flex-wrap: wrap;
+		-webkit-flex-wrap: wrap;
+		-ms-flex-wrap: wrap;
+		flex-wrap: wrap;
+		width: calc(100% + 2.25em);
+		margin: -1.125em 0 1.5em -1.125em;
+	}
+
+	form > .fields > .field {
+		-moz-flex-grow: 0;
+		-webkit-flex-grow: 0;
+		-ms-flex-grow: 0;
+		flex-grow: 0;
+		-moz-flex-shrink: 0;
+		-webkit-flex-shrink: 0;
+		-ms-flex-shrink: 0;
+		flex-shrink: 0;
+		padding: 1.125em 0 0 1.125em;
+		width: calc(100% - 1.125em);
+	}
+	form > .fields > .field.half {
+		width: calc(50% - 0.5625em);
+	}
+	form > .fields > .field.third {
+		width: calc(100%/3 - 0.375em);
+	}
+	form > .fields > .field.quarter {
+		width: calc(25% - 0.28125em);
+	}
+
+	@media screen and (max-width: 480px) {
 		form > .fields {
-			display: -moz-flex;
-			display: -webkit-flex;
-			display: -ms-flex;
-			display: flex;
-			-moz-flex-wrap: wrap;
-			-webkit-flex-wrap: wrap;
-			-ms-flex-wrap: wrap;
-			flex-wrap: wrap;
 			width: calc(100% + 2.25em);
 			margin: -1.125em 0 1.5em -1.125em;
 		}
-
-			form > .fields > .field {
-				-moz-flex-grow: 0;
-				-webkit-flex-grow: 0;
-				-ms-flex-grow: 0;
-				flex-grow: 0;
-				-moz-flex-shrink: 0;
-				-webkit-flex-shrink: 0;
-				-ms-flex-shrink: 0;
-				flex-shrink: 0;
-				padding: 1.125em 0 0 1.125em;
-				width: calc(100% - 1.125em);
-			}
-
-				form > .fields > .field.half {
-					width: calc(50% - 0.5625em);
-				}
-
-				form > .fields > .field.third {
-					width: calc(100%/3 - 0.375em);
-				}
-
-				form > .fields > .field.quarter {
-					width: calc(25% - 0.28125em);
-				}
-
-		@media screen and (max-width: 480px) {
-
-			form > .fields {
-				width: calc(100% + 2.25em);
-				margin: -1.125em 0 1.5em -1.125em;
-			}
-
-				form > .fields > .field {
-					padding: 1.125em 0 0 1.125em;
-					width: calc(100% - 1.125em);
-				}
-
-					form > .fields > .field.half {
-						width: calc(100% - 1.125em);
-					}
-
-					form > .fields > .field.third {
-						width: calc(100% - 1.125em);
-					}
-
-					form > .fields > .field.quarter {
-						width: calc(100% - 1.125em);
-					}
-
+		form > .fields > .field {
+			padding: 1.125em 0 0 1.125em;
+			width: calc(100% - 1.125em);
 		}
 
+		form > .fields > .field.half {
+			width: calc(100% - 1.125em);
+		}
+
+		form > .fields > .field.third {
+			width: calc(100% - 1.125em);
+		}
+
+		form > .fields > .field.quarter {
+			width: calc(100% - 1.125em);
+		}
+	}
+	*/
+	
 	label {
 		color: #96a8b3;
 		display: block;
@@ -97,33 +93,35 @@ title = "Contact"
 		width: 100%;
 	}
 
-		input[type="text"]:invalid,
-		input[type="password"]:invalid,
-		input[type="email"]:invalid,
-		input[type="tel"]:invalid,
-		select:invalid,
-		textarea:invalid {
-			box-shadow: none;
+	input[type="text"]:invalid,
+	input[type="password"]:invalid,
+	input[type="email"]:invalid,
+	input[type="tel"]:invalid,
+	select:invalid,
+	textarea:invalid {
+		box-shadow: none;
 		}
 
-		input[type="text"]:focus,
-		input[type="password"]:focus,
-		input[type="email"]:focus,
-		input[type="tel"]:focus,
-		select:focus,
-		textarea:focus {
-			border-color: #ff7496;
-		}
-  /*style*/
+	input[type="text"]:focus,
+	input[type="password"]:focus,
+	input[type="email"]:focus,
+	input[type="tel"]:focus,
+	select:focus,
+	textarea:focus {
+		border-color: #ff7496;
+	}
+
+
+/*style*/
   
 	input, select, textarea {
     		font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 14pt;
 			font-weight: 300;
 			line-height: 2;
-			letter-spacing: 0.2em;
-		
+			letter-spacing: 0.2em;	
 	}
+	
 	.box{
 		width:300px;
 		height:100px;
@@ -133,8 +131,7 @@ title = "Contact"
 		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);   	/* IE6 & 7 */
  	     zoom: 1;
 	}
-
-  
+ 
  /* Button */
 
 	input[type="submit"],
@@ -162,79 +159,81 @@ title = "Contact"
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
-		}
+	}
 
-		input[type="submit"]:hover,
-		input[type="reset"]:hover,
-		input[type="button"]:hover,
-		button:hover,
-		.button:hover {
-			border-color: #ff7496;
-			color: #ff7496 !important;
-		}
+	input[type="submit"]:hover,
+	input[type="reset"]:hover,
+	input[type="button"]:hover,
+	button:hover,
+	.button:hover {
+		border-color: #ff7496;
+		color: #ff7496 !important;
+	}
 
-		input[type="submit"].icon,
-		input[type="reset"].icon,
-		input[type="button"].icon,
-		button.icon,
-		.button.icon {
-			padding-left: 1.35em;
-		}
+	input[type="submit"].icon,
+	input[type="reset"].icon,
+	input[type="button"].icon,
+	button.icon,
+	.button.icon {
+		padding-left: 1.35em;
+	}
 
-		input[type="submit"].icon:before,
-		input[type="reset"].icon:before,
-		input[type="button"].icon:before,
-		button.icon:before,
-		.button.icon:before {
-			margin-right: 0.5em;
-		}
+	input[type="submit"].icon:before,
+	input[type="reset"].icon:before,
+	input[type="button"].icon:before,
+	button.icon:before,
+	.button.icon:before {
+		margin-right: 0.5em;
+	}
 
-		input[type="submit"].fit,
-		input[type="reset"].fit,
-		input[type="button"].fit,
-		button.fit,
-		.button.fit {
-			width: 100%;
-		}
+	input[type="submit"].fit,
+	input[type="reset"].fit,
+	input[type="button"].fit,
+	button.fit,
+	.button.fit {
+		width: 100%;
+	}
 
-		input[type="submit"].small,
-		input[type="reset"].small,
-		input[type="button"].small,
-		button.small,
-		.button.small {
-			font-size: 0.8em;
-		}
+	input[type="submit"].small,
+	input[type="reset"].small,
+	input[type="button"].small,
+	button.small,
+	.button.small {
+		font-size: 0.8em;
+	}
 
-		input[type="submit"].large,
-		input[type="reset"].large,
-		input[type="button"].large,
-		button.large,
-		.button.large {
-			font-size: 1.35em;
-		}
+	input[type="submit"].large,
+	input[type="reset"].large,
+	input[type="button"].large,
+	button.large,
+	.button.large {
+		font-size: 1.35em;
+	}
 
-		input[type="submit"].disabled, input[type="submit"]:disabled,
-		input[type="reset"].disabled,
-		input[type="reset"]:disabled,
-		input[type="button"].disabled,
-		input[type="button"]:disabled,
-		button.disabled,
-		button:disabled,
-		.button.disabled,
-		.button:disabled {
-			pointer-events: none;
-			opacity: 0.5;
-		}
+	input[type="submit"].disabled, input[type="submit"]:disabled,
+	input[type="reset"].disabled,
+	input[type="reset"]:disabled,
+	input[type="button"].disabled,
+	input[type="button"]:disabled,
+	button.disabled,
+	button:disabled,
+	.button.disabled,
+	.button:disabled {
+		pointer-events: none;
+		opacity: 0.5;
+	}
 </style>
     
-<form name="Contact Aizera" method="POST" netlify> <p> <label>NAME: <input type="text" name="NAME:" required></label>  
+<form name="Contact Aizera" method="POST" netlify> 
+<p> <label>NAME: <input type="text" name="NAME:" required></label>  
 </p>
-<p>
-<label>EMAIL: <input type="email" name="Email:" required></label>  
+
+<p><label>EMAIL: <input type="email" name="Email:" required></label>  
 </p>
-<p>
+
 <p>	<label>MESSAGE (OPTIONAL): <textarea name="Message:"></textarea></label>
 </p>
+
 <p>
 <button type="submit">SUBMIT</button>
 </p>
