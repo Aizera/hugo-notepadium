@@ -79,7 +79,7 @@ title = "Contact"
 		}
 
 	label {
-		color: #313f47;
+		color: #dbf2ff;
 		display: block;
 		font-size: 0.9em;
 		margin: 0 0 0.75em 0;
@@ -140,7 +140,7 @@ title = "Contact"
 	margin-top: 20px;
 	border-radius: 20px;
 	border: none;
-	border-bottom: 4px solid #3e4f24;
+	border-bottom: 4px solid #8ca8a2;
 	background: #5a7233; 
 	font-size: 16px;
 	font-weight: 400;
