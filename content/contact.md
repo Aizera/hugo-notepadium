@@ -124,6 +124,17 @@ title = "Contact"
 		letter-spacing: 0.2em;
 		
 	}
+.box{
+    width:300px;
+    height:100px;
+    background-color:rgba(0,0,0,0.0); /* where 0.5 means 50% opacity */
+/* and for a full compatibility on older browsers like ie7-8-9 you can use the filter property  */
+background: transparent;
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000)"; /* IE8 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);   /* IE6 & 7 */
+      zoom: 1;
+
+}
 	/* Button */
 
 	input[type="submit"],
@@ -146,7 +157,7 @@ title = "Contact"
 		background-color: transparent;
 		border-radius: 4px;
 		border: solid 1px #c8cccf;
-		color: #39434a !important;
+		color: #96a8b3 !important;
 		cursor: pointer;
 		text-align: center;
 		text-decoration: none;
