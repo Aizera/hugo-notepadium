@@ -79,7 +79,7 @@ title = "Contact"
 		}
 
 	label {
-		color: #dbf2ff;
+		color: #7f8f99;
 		display: block;
 		font-size: 0.9em;
 		margin: 0 0 0.75em 0;
@@ -154,7 +154,7 @@ title = "Contact"
 		background-color: transparent;
 		border-radius: 4px;
 		border: solid 1px #c8cccf;
-		color: #8fafc2 !important;
+		color: #7f8f99 !important;
 		cursor: pointer;
 		text-align: center;
 		text-decoration: none;
@@ -224,7 +224,7 @@ title = "Contact"
 		}
 </style>
     
-<form name="Contact Aizera" method="POST" netlify> <p> <label>Name: <input type="text" name="NAME:" required></label>  
+<form name="Contact Aizera" method="POST" netlify> <p> <label>NAME: <input type="text" name="NAME:" required></label>  
 </p>
 <p>
 <label>EMAIL: <input type="email" name="Email:" required></label>  
