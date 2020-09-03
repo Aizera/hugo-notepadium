@@ -19,6 +19,7 @@ title = "Contact"
       input, textarea { 
       outline: none;
       }
+     
       h1 {
       margin-top: 0;
       font-weight: 500;
@@ -38,15 +39,41 @@ title = "Contact"
       border-radius: 20px;
       background: #5a7233;
       }
-      .circle {
+      .form-left-decoration {
+      bottom: 60px;
+      left: -30px;
+      }
+      .form-right-decoration {
+      top: 60px;
+      right: -30px;
+      }
+      .form-left-decoration:before,
+      .form-left-decoration:after,
+      .form-right-decoration:before,
+      .form-right-decoration:after {
+      content: "";
       position: absolute;
-      bottom: 80px;
-      left: -55px;
-      width: 20px;
+      width: 50px;
       height: 20px;
-      border-radius: 50%;
+      border-radius: 30px;
       background: #fff;
       }
+      .form-left-decoration:before {
+      top: -20px;
+      }
+      .form-left-decoration:after {
+      top: 20px;
+      left: 10px;
+      }
+      .form-right-decoration:before {
+      top: -20px;
+      right: 0;
+      }
+      .form-right-decoration:after {
+      top: 20px;
+      right: 10px;
+      }
+     
       .form-inner {
       padding: 40px;
       }
