@@ -73,9 +73,7 @@ title = "Contact"
 		margin: 0 0 0.75em 0;
 	}
 
-	input[type="text"],textarea {
-	background-color : #222831; 
-	}
+	input[type="text"],
 	input[type="password"],
 	input[type="email"],
 	input[type="tel"],
@@ -84,6 +82,7 @@ title = "Contact"
 		-moz-appearance: none;
 		-webkit-appearance: none;
 		-ms-appearance: none;
+		background-color : #222831;
 		appearance: none;
 		border-radius: 4px;
 		border: solid 1px #c8cccf;
