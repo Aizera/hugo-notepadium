@@ -140,8 +140,8 @@ title = "Contact"
 	margin-top: 20px;
 	border-radius: 20px;
 	border: none;
-	border-bottom: 4px solid #8ca8a2;
-	background: #5a7233; 
+	border-bottom: 4px solid #4c5c58;
+	background: #8ca8a2; 
 	font-size: 16px;
 	font-weight: 400;
 	color: #fff;
