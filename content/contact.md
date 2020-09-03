@@ -116,26 +116,26 @@ title = "Contact"
 		}
   /*style*/
   
- input, select, textarea {
-    	font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 14pt;
-		font-weight: 300;
-		line-height: 2;
-		letter-spacing: 0.2em;
+	input, select, textarea {
+    		font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-size: 14pt;
+			font-weight: 300;
+			line-height: 2;
+			letter-spacing: 0.2em;
 		
 	}
-.box{
-    width:300px;
-    height:100px;
-    background-color:rgba(0,0,0,0.0); /* where 0.5 means 50% opacity */
-/* and for a full compatibility on older browsers like ie7-8-9 you can use the filter property  */
-background: transparent;
--ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000)"; /* IE8 */
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);   /* IE6 & 7 */
-      zoom: 1;
+	.box{
+		width:300px;
+		height:100px;
+		background-color:rgba(0,0,0,0.0); /* where 0.5 means 50% opacity */
+		background: transparent;
+		-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000)"; /* IE8 */
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#7F000000,endColorstr=#7F000000);   	/* IE6 & 7 */
+ 	     zoom: 1;
+	}
 
-}
-	/* Button */
+  
+ /* Button */
 
 	input[type="submit"],
 	input[type="reset"],
@@ -162,7 +162,7 @@ background: transparent;
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
-	}
+		}
 
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
@@ -181,13 +181,13 @@ background: transparent;
 			padding-left: 1.35em;
 		}
 
-			input[type="submit"].icon:before,
-			input[type="reset"].icon:before,
-			input[type="button"].icon:before,
-			button.icon:before,
-			.button.icon:before {
-				margin-right: 0.5em;
-			}
+		input[type="submit"].icon:before,
+		input[type="reset"].icon:before,
+		input[type="button"].icon:before,
+		button.icon:before,
+		.button.icon:before {
+			margin-right: 0.5em;
+		}
 
 		input[type="submit"].fit,
 		input[type="reset"].fit,
