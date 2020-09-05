@@ -10,7 +10,7 @@ Your opinion is important to us. Please hold while we connect you to an agent.
         repo="Aizera/hugo-notepadium"
         issue-term="pathname"
         label="Blog Comments"
-        theme="dark-blue"
+        theme="photon-dark"
         crossorigin="anonymous"
         async>
 </script>
