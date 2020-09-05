@@ -10,17 +10,17 @@ It's been about a month since my last Ring Fit Adventure post, but yes, I am sti
 
 #### Gaming Aspect
 
-  Personally, if Ring Fit wasn't a game, my consideration to incorporate fitness into my life still might not have been a thing. For me, Ring Fit is one of the many games I am inherently interested in, and I am willing to put in the work to grind stats and progress in the game. The story is interesting enough for me, and the music battle always gets me pumped up! Here is my absolute favorite OST from the game below, feel free to listen if you don't mind the spoiler!
+Personally, if Ring Fit wasn't a game, my consideration to incorporate fitness into my life still might not have been a thing. For me, Ring Fit is one of the many games I am inherently interested in, and I am willing to put in the work to grind stats and progress in the game. The story is interesting enough for me, and the music battle always gets me pumped up! Here is my absolute favorite OST from the game below, feel free to listen if you don't mind the spoiler!
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/qdjvSjLMFHE' frameborder='0' allowfullscreen></iframe></div>
 
 #### Easy Entry
 
-  Ring Fit's easy barrier to entry is also one way that got me to start. Ring Fit has a custom intensity scale from 1 to 30, which will determine how much damage you can do per attack. This difficulty of exercise intensity is fully controlled by the user, and is independent of the difficulty of the game. I began with a level 6, which was giving me 4-10 reps to complete an attack, and I've slowly raised it to 8, 10, then a jump to 15, which now has around 10-20 reps to complete an attack depending on the pose (except Yoga poses).
+Ring Fit's easy barrier to entry is also one way that got me to start. Ring Fit has a custom intensity scale from 1 to 30, which will determine how much damage you can do per attack. This difficulty of exercise intensity is fully controlled by the user, and is independent of the difficulty of the game. I began with a level 6, which was giving me 4-10 reps to complete an attack, and I've slowly raised it to 8, 10, then a jump to 15, which now has around 10-20 reps to complete an attack depending on the pose (except Yoga poses).
 
 #### Redirecting my Energy
 
-  Because I am stuck at home in the middle of the global pandemic, my normal movement of walking up and down the hill on the campus, or shopping and walking around the neighborhood has ceased to be. That gave me a chance to redirect all the effort I've been putting in to a slightly more intense and purposeful workout. Because I can decide when I want to work out for when and how long, I only push myself to slightly more than the point I can withstand. That's why I am able to maintain the hobby consistently by giving myself the right amount of challenge as I grow with the game.
+Because I am stuck at home in the middle of the global pandemic, my normal movement of walking up and down the hill on the campus, or shopping and walking around the neighborhood has ceased to be. That gave me a chance to redirect all the effort I've been putting in to a slightly more intense and purposeful workout. Because I can decide that I want to work out for when and how long, I only push myself to do slightly more than the point I can withstand. That's why I am able to maintain the hobby consistently by giving myself the right amount of challenge as I grow with the game.
 
 ## Bonus: FAQ/Concerns
 
