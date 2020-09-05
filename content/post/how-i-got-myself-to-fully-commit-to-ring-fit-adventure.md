@@ -12,7 +12,7 @@ It's been about a month since my last Ring Fit Adventure post, but yes, I am sti
 
   Personally, if Ring Fit wasn't a game, my consideration to incorporate fitness into my life still might not have been a thing. For me, Ring Fit is one of the many games I am inherently interested in, and I am willing to put in the work to grind stats and progress in the game. The story is interesting enough for me, and the music battle always gets me pumped up! Here is my absolute favorite OST from the game below, feel free to listen if you don't mind the spoiler!
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/watch?v=qdjvSjLMFHE' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/qdjvSjLMFHE' frameborder='0' allowfullscreen></iframe></div>
 
 #### Easy Entry
 
@@ -31,7 +31,7 @@ It's been about a month since my last Ring Fit Adventure post, but yes, I am sti
 
 Below is a video by [VIVY Has A Dream Channel](https://www.youtube.com/watch?v=BW8DUDPsmQ4) showing how assist mode is used.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/watch?v=BW8DUDPsmQ4' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BW8DUDPsmQ4' frameborder='0' allowfullscreen></iframe></div>
 
 * Q: Is there a multiplayer mode?
 * A: There isn't simultaneous multiplayer, but my sister and I take turns playing, and we can compare stats locally.
