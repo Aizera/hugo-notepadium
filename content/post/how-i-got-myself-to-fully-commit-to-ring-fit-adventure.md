@@ -4,13 +4,13 @@ tags = ["ringfit"]
 title = "How I got myself to fully commit to Ring Fit Adventure"
 
 +++
-It's been about a month since my last Ring Fit Adventure post, but yes, I am still wading through the levels at a steady pace, occasionally backtracking to finish my side quests. For my friends who showed some interest in trying out Ring Fit for real, this one is for you! I want to talk about how I got started and how I kept going.
-
-## How I got myself to fully commit to Ring Fit Adventure
+It's been about a month since my last Ring Fit Adventure post! But yes, I am still wading through the levels at a steady pace, occasionally backtracking to finish my side quests. From the last time I posted, some of you showed some interest in trying out Ring Fit for real. This one is for you! I want to talk about how I got started in Ring Fit and how I kept going.
 
 #### Gaming Aspect
 
-Personally, if Ring Fit wasn't a game, my consideration to incorporate fitness into my life still might not have been a thing. For me, Ring Fit is one of the many games I am inherently interested in, and I am willing to put in the work to grind stats and progress in the game. The story is interesting enough for me, and the music battle always gets me pumped up! Here is my absolute favorite OST from the game below, feel free to listen if you don't mind the spoiler!
+Personally, if Ring Fit wasn't a game, my consideration to incorporate fitness into my life still might not have been a thing. For me, Ring Fit is one of the many games I can instantly fall in love with. I am someone who's always loved turn based RPGs. The quirky story, the scenic jogging, exercise moves that double down as attacks, and the battle music always gets me pumped up! I always absorb the scene whenever I'm running, and the amount of detail that the devs have stuffed in every frame never fails to amuse me. It's just like one of those animes that can make any screenshot look like a desktop wallpaper. It's just that good.
+
+Wrapping up, I want to share my absolute favorite OST from the game below, feel free to listen if you don't mind some spoilers!
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/qdjvSjLMFHE' frameborder='0' allowfullscreen></iframe></div>
 
