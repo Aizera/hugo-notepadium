@@ -37,15 +37,6 @@ css = ["css/fonts.css"]
 [params.comments]
 enable = false # En/Disable comments globally, default: false. You can always enable comments on per page.
 
-[params.comments.utterances]
-enable = true
-issueTerm = "pathname"
-label = "Blog Comments"
-theme = "photon-dark"
-
-[params.comments.utterances.github]
-username = "Aizera"
-repository = "hugo-notepadium"
 
 [params.math]
 enable = false # load math globally, default: false. You can always enable math on per page.
