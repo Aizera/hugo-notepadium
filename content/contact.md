@@ -2,6 +2,7 @@
 date = ""
 tags = []
 title = "Contact"
+comments = false
 
 +++
 <style>

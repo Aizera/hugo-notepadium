@@ -35,7 +35,7 @@ slogan = "Kate's bad at finishing projects"
 css = ["css/fonts.css"]
 
 [params.comments]
-enable = false # En/Disable comments globally, default: false. You can always enable comments on per page.
+enable = true # En/Disable comments globally, default: false. You can always enable comments on per page.
 
 
 [params.math]
