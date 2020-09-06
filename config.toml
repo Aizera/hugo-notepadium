@@ -43,6 +43,10 @@ issueTerm = "pathname"
 label = "Blog Comments"
 theme = "photon-dark"
 
+[params.comments.utterances.github]
+username = "Aizera"
+repository = "hugo-notepadium"
+
 [params.math]
 enable = false # load math globally, default: false. You can always enable math on per page.
 use = "katex"  # builtin: "katex", "mathjax".  default: "katex"
