@@ -2,6 +2,7 @@
 date = ""
 tags = []
 title = "About"
+comments = false
 
 +++
 {{< figure src="/uploads/untitled4-1.png" height="300" >}}
