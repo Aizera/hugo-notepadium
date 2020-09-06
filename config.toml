@@ -38,6 +38,7 @@ css = ["css/fonts.css"]
 enable = false # En/Disable comments globally, default: false. You can always enable comments on per page.
 
 [params.comments.utterances]
+enable = true
 repo = "Aizera/hugo-notepadium"
 
 [params.math]
