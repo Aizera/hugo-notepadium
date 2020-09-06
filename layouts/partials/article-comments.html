@@ -1,4 +1,4 @@
-{{- if (eq .Params.comments true) -}}
+{{- if or (eq .Params.comments true) (and (ne .Params.comments false) (eq site.Params.comments.enable true)) -}}
 <script src="https://utteranc.es/client.js"
     repo="Aizera/hugo-notepadium"
     issue-term="pathname"
