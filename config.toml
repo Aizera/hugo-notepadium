@@ -39,7 +39,9 @@ enable = false # En/Disable comments globally, default: false. You can always en
 
 [params.comments.utterances]
 enable = true
-repo = "Aizera/hugo-notepadium"
+issueTerm = "pathname"
+label = "Blog Comments"
+theme = "photon-dark"
 
 [params.math]
 enable = false # load math globally, default: false. You can always enable math on per page.
