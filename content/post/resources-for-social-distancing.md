@@ -12,8 +12,8 @@ title = "Resources for Social Distancing"
 
 [Free Resources from online services (thejournal.com)](https://thejournal.com/Articles/2020/03/13/Free-Resources-Ed-Tech-Companies-Step-Up-During-Coronavirus-Outbreak.aspx?Page=3)
 
-[Coursera Free Certificate Classes (classcentral.com)]()
+[Coursera Free Certificate Classes (classcentral.com)](https://classcentral.com)
 
-[Harvard Online Courses]()
+[Harvard Online Courses](https://online-learning.harvard.edu/)
 
-[MIT Online Courses]()
+[MIT Online Courses](https://ocw.mit.edu/index.htm)
