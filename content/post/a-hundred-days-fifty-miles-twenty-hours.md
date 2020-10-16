@@ -6,7 +6,7 @@ title = "2000 squats, 100 days, 50 miles, 24 hours later..."
 +++
 Hello again folks. Well, I'm drawing pretty damn close to the finale of the game! I've grown a neat little collection of titles, levels, power-ups, and everything in between. From formerly sedentary to fit superhero, I've been trying my best to fill in the shoes of Ring Fit Adventure's Protagonist, who is more or less nonchalant about this whole endeavor, and apparently, have nothing better to do with their life then running around with a magical ring, chasing an evil dragon. Because that's what heroes do. Cue weeb trailer.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='[https://www.youtube.com/embed/u4yhUjKZ_yM](https://www.youtube.com/embed/u4yhUjKZ_yM "https://www.youtube.com/embed/u4yhUjKZ_yM")' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/u4yhUjKZ_yM' frameborder='0' allowfullscreen></iframe></div>
 
 #### An 100-day Adventure! A Couch Potato No Longer.
 
