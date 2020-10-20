@@ -215,7 +215,7 @@ comments = false
 	}
 </style>
     
-<form name="Contact Aizera" method="POST" netlify-honeypot="age" netlify> 
+<form name="Contact Aizera" method="POST" netlify-honeypot="age" data-netlify="true"> 
 <p> <label>NAME: <input type="text" name="NAME:" required></label>  
 </p>
 
