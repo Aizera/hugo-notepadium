@@ -129,6 +129,16 @@ comments = false
 	input[type="button"],
 	button,
 	
+	.hellothere {
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 0;
+        width: 0;
+        z-index: -1;
+	}
+
 	.button {
 		-moz-appearance: none;
 		-webkit-appearance: none;
@@ -219,9 +229,9 @@ comments = false
 <p> <label>NAME: <input type="text" name="NAME:" required></label>  
 </p>
 
-<p class="hidden">
-    <label>AGE: <input name="bot-field" /></label>
-  </p>
+<p class="hellothere">
+    <label>AGE: <input type="text" name="bot-field" /></label>
+</p>
 
 <p><label>EMAIL: <input type="email" name="Email:" required></label>  
 </p>
