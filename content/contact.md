@@ -220,7 +220,7 @@ comments = false
 </p>
 
 <p class="hidden">
-    <label>AGE: <input type="text" name="age" required/></label>
+    <label>AGE: <input type="text" name="age"></label>
 </p>
 
 <p><label>EMAIL: <input type="email" name="Email:" required></label>  
