@@ -215,18 +215,18 @@ comments = false
 	}
 </style>
     
-<form name="Contact Aizera" method="POST" netlify-honeypot="age" data-netlify="true"> 
+<form name="Contact Aizera" method="POST" netlify-honeypot="bot-field" data-netlify="true"> 
 <p> <label>NAME: <input type="text" name="NAME:" required></label>  
 </p>
 
 <p class="hidden">
-    <label>AGE: <input type="text" name="age"></label>
-</p>
+    <label>AGE: <input name="bot-field" /></label>
+  </p>
 
 <p><label>EMAIL: <input type="email" name="Email:" required></label>  
 </p>
 
-<p>	<label>MESSAGE (OPTIONAL): <textarea name="Message:" required></textarea></label>
+<p>	<label>MESSAGE: <textarea name="Message:" required></textarea></label>
 </p>
 
 <p>
