@@ -128,16 +128,6 @@ comments = false
 	input[type="reset"],
 	input[type="button"],
 	button,
-	
-	.hellothere {
-        opacity: 0;
-        position: absolute;
-        top: 0;
-        left: 0;
-        height: 0;
-        width: 0;
-        z-index: -1;
-	}
 
 	.button {
 		-moz-appearance: none;
@@ -222,6 +212,16 @@ comments = false
 	.button:disabled {
 		pointer-events: none;
 		opacity: 0.5;
+	}
+
+	.hellothere {
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 0;
+        width: 0;
+        z-index: -1;
 	}
 </style>
     
