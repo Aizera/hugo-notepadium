@@ -6,22 +6,22 @@ title = "Summarizing Each of Akash's Love Interests in ONLY ONE Screenshot"
 +++
 [Link to Game here](https://truant-pixel-llc.itch.io/akash "https://truant-pixel-llc.itch.io/akash")
 
-## Lux
+### Lux
 
-![](/uploads/20201124181254_1.jpg)
+{{< figure src="https://aizera.page/uploads/20201124181254_1.jpg" >}}
 
-## Caspian
+### Caspian
 
-![](/uploads/20201123142054_1.jpg)
+{{< figure src="https://aizera.page/uploads/20201123142054_1.jpg" >}}
 
-## Sirocco
+### Sirocco
 
-![](/uploads/20210318143430_1.jpg)
+{{< figure src="https://aizera.page/uploads/20210318143430_1.jpg" >}}
 
-## Rowan
+### Rowan
 
-![](/uploads/20201124233311_1.jpg)
+{{< figure src="https://aizera.page/uploads/20201124233311_1.jpg" >}}
 
-## Ignatius
+### Ignatius
 
-![](/uploads/20210318115204_1.jpg)
+{{< figure src="https://aizera.page/uploads/20210318115204_1.jpg" >}}
