@@ -1,7 +1,7 @@
 +++
 date = 2021-03-19T19:35:47Z
 tags = ["gaming", "shitpost"]
-title = "Summarizing Each of Akash's Love Interests in ONLY ONE Screenshot"
+title = "(Mini Spoiler) Summarizing Each of Akash's Love Interests in ONLY ONE Screenshot"
 
 +++
 [Link to Game here](https://truant-pixel-llc.itch.io/akash "https://truant-pixel-llc.itch.io/akash")
