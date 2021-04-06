@@ -6,6 +6,7 @@ title = "Art Gallery"
 +++
 {{< gallery >}}
 
+{{< figure src="/uploads/emerald.png" >}}
 {{< figure src="/uploads/gym-girl-edit.png" >}}
 {{< figure src="/uploads/ringfit2.png" >}}
 {{< figure src="/uploads/untitled163_20210203182024.png" >}}
