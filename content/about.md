@@ -5,7 +5,7 @@ tags = []
 title = "About"
 
 +++
-{{< figure src="/uploads/kate1.png" height="300" >}}
+{{< figure src="/uploads/kate1u2.png" height="300" >}}
 
 Hello and welcome to my blog! My name is Kate. I'm a full time student and digital art hobbyist who spend most of my time on procrastinating and getting distracted by things.
 
