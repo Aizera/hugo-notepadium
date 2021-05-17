@@ -17,7 +17,7 @@ Continuing to wear my mask or not after the vaccine is something I have been on 
 
 #### New Journal
 
-{{< figure src="https://aizera.page/uploads/pxl_20210517_024538467.jpg" >}}
+{{< figure src="https://raw.githubusercontent.com/Aizera/hugo-notepadium/master/static/uploads/pxl_20210517_024538467.jpg" >}}
 
 I made this impulse buy on Amazon after finding a really cute colored traveler's notebook that goes for $10. It is half the size of a regular A5 bullet journal. Although the creator of the Bullet Journal, Ryder Carroll, says that the bullet journal is a one stop notebook for everything, I ended up not liking the idea of keeping important and unimportant stuff together. Frankly, I will really never care to read a bunch of errands after I'm done with them, and I'd prefer to discard them after it is no longer relevant, rather than keep it in my journal with the other things I value a lot more: daily highlights, long form journaling reflections, drawings, notes, and collections of lists. This is where the traveler's notebook comes in:
 
