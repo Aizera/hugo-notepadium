@@ -1,6 +1,6 @@
 +++
 date = 2020-10-16T03:48:00Z
-tags = ["ringfit", "staying home"]
+tags = ["ringfit", "staying home", "life update"]
 title = "2000 squats, 100 days, 50 miles, 24 hours later..."
 
 +++
