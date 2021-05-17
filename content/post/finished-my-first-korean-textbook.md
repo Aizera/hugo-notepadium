@@ -1,6 +1,6 @@
 +++
 date = 2020-07-29T17:57:41Z
-tags = ["learning", "staying home"]
+tags = ["learning", "staying home", "life update"]
 title = "Finished my first Korean textbook!"
 
 +++

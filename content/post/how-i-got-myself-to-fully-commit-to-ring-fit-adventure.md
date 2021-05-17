@@ -1,6 +1,6 @@
 +++
 date = 2020-09-05T21:46:54Z
-tags = ["ringfit"]
+tags = ["ringfit", "staying home", "life update"]
 title = "How I got myself to fully commit to Ring Fit Adventure"
 
 +++
