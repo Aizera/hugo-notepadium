@@ -1,6 +1,5 @@
 +++
 date = 2021-05-17T02:32:02Z
-draft = true
 tags = ["life update", "bullet journal"]
 title = "Covid-19 Vaccine, New Journal, and Blog Plans for the Summer"
 
